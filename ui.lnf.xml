@@ -1,9 +1,9 @@
 <application>
   <component name="UISettings">
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="FONT_FACE" value="微软雅黑Monaco" />
+    <option name="FONT_FACE" value="Fira Code" />
+    <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
