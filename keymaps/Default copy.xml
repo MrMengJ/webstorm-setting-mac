@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="shift alt f12" />
+  </action>
+</keymap>
