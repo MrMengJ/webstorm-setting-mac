@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
