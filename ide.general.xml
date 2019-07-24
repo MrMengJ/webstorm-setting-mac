@@ -3,7 +3,6 @@
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
-    <option name="supportScreenReaders" value="true" />
     <option name="autoSyncFiles" value="false" />
   </component>
   <component name="Registry">
@@ -16,5 +15,6 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="ide.tooltip.initialDelay" value="704" />
   </component>
 </application>
