@@ -1,8 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Language Injection/Annotate injection with comment" />
-    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
-    <ignoreAction name="JavaScript/Introduce local variable" />
-    <ignoreAction name="JavaScript/Control Flow/Simplify If Else" />
-  </component>
-</application>
