@@ -1,6 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="CloseContent" />
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -10,6 +11,9 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
