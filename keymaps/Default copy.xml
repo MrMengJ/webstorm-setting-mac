@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="CloseContent" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
