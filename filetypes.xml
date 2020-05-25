@@ -3,9 +3,8 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping pattern="scion" type="ECMAScript 6" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern=".env" type="Native" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
