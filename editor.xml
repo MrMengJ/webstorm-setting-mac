@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-  </component>
-</application>
