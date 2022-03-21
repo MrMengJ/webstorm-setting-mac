@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="文件 '…/apps/web-app/src/pages/diagram/FlowDiagram/Diagram/shapes/Activity/index.tsx'" />
-    <option name="defaultScopeName" value="文件 '…/apps/web-app/src/pages/diagram/FlowDiagram/Diagram/shapes/Activity/index.tsx'" />
-    <option name="SEARCH_SCOPE" value="文件 '…/apps/web-app/src/pages/diagram/FlowDiagram/Diagram/shapes/Activity/index.tsx'" />
+    <option name="customScope" value="所有位置" />
+    <option name="defaultScopeName" value="所有位置" />
+    <option name="SEARCH_SCOPE" value="所有位置" />
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
