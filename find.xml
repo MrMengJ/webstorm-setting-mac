@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="所有位置" />
     <option name="SEARCH_SCOPE" value="所有位置" />
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
