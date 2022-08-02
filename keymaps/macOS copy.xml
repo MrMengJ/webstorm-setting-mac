@@ -2,4 +2,7 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
 </keymap>
