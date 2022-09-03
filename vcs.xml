@@ -22,9 +22,17 @@
           <option name="url" value="git@e.coding.net:jecn/epros/x6.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MrMengJ/x6-debugger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MrMengJ/MrMengJ.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code/front-end/jecn-code" />
+    <option name="cloneParentDir" value="$USER_HOME$/code/front-end/test" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
